@@ -2,6 +2,8 @@
 
 A simple **Streamlit-based House Price Prediction App**, fully Dockerized and ready to deploy.
 
+DEMO - https://app-house-price-2jkjgudeh34m37mvnt435t.streamlit.app/
+
 ---
 
 ## 📂 Project Structure
